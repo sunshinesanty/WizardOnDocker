@@ -1,0 +1,25 @@
+{
+  "name": "wizardondocker",
+  "version": "1.0.0",
+  "description": "my first docker web site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunshinesanty/WizardOnDocker.git"
+  },
+  "keywords": [
+    "docker",
+    "AWS",
+    "React",
+    "Wizrd"
+  ],
+  "author": "Santoshkumar Krishnamurthy Iyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunshinesanty/WizardOnDocker/issues"
+  },
+  "homepage": "https://github.com/sunshinesanty/WizardOnDocker#readme"
+}
